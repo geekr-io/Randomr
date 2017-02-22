@@ -1,7 +1,7 @@
-Ionic 2 App Base
+Randomr
 =====================
 
-This is the base template for Ionic 2 starter apps.
+Random generator application
 
 ## Using this project
 
@@ -14,7 +14,6 @@ $ npm install -g ionic
 Then run:
 
 ```bash
-$ ionic start myApp
+$ ionic start randomr
 ```
 
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/docs/v2/getting-started/) page.
